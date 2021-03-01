@@ -17,7 +17,7 @@ body {
 
 .header {
   min-height: 7rem;
-  background-color: black;
+  background-color: #6A9CA1;
   color: #fff;
   display: flex;
   justify-content: space-evenly;
